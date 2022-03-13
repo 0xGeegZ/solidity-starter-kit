@@ -184,7 +184,7 @@ pragma solidity ^0.8.0;
 
 /**
  * @title TokenRecover
- * @author Guillaume Dieudonné (https://github.com/vittominacori)
+ * @author Guillaume Dieudonné (https://github.com/GuiDieudo)
  * @dev Allows owner to recover any ERC20 sent into the contract
  */
 contract TokenRecover is Ownable {

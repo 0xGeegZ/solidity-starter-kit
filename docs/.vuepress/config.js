@@ -11,7 +11,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
   themeConfig: {
-    repo: 'vittominacori/solidity-starter-kit',
+    repo: 'GuiDieudo/solidity-starter-kit',
     sidebar: 'auto',
   },
 };

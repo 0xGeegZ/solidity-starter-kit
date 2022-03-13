@@ -4,9 +4,9 @@ title: Easily build your smart contracts
 
 # Solidity Starter Kit
 
-[![CI](https://github.com/vittominacori/solidity-starter-kit/workflows/CI/badge.svg?branch=master)](https://github.com/vittominacori/solidity-starter-kit/actions/)
-[![Coverage Status](https://coveralls.io/repos/github/vittominacori/solidity-starter-kit/badge.svg)](https://coveralls.io/github/vittominacori/solidity-starter-kit)
-[![MIT licensed](https://img.shields.io/github/license/vittominacori/solidity-starter-kit.svg)](https://github.com/vittominacori/solidity-starter-kit/blob/master/LICENSE)
+[![CI](https://github.com/GuiDieudo/solidity-starter-kit/workflows/CI/badge.svg?branch=master)](https://github.com/GuiDieudo/solidity-starter-kit/actions/)
+[![Coverage Status](https://coveralls.io/repos/github/GuiDieudo/solidity-starter-kit/badge.svg)](https://coveralls.io/github/GuiDieudo/solidity-starter-kit)
+[![MIT licensed](https://img.shields.io/github/license/GuiDieudo/solidity-starter-kit.svg)](https://github.com/GuiDieudo/solidity-starter-kit/blob/master/LICENSE)
 
 
 A starter kit for Ethereum Smart Contracts development
@@ -143,4 +143,4 @@ The `sol2uml` generates UML class diagram from Solidity contracts.
 
 ## License
 
-Code released under the [MIT License](https://github.com/vittominacori/solidity-starter-kit/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/GuiDieudo/solidity-starter-kit/blob/master/LICENSE).
